@@ -1,7 +1,6 @@
 # project-calculator
-#  Mini Calculator in Python
 
-This is a simple command-line calculator written in Python. It performs five basic operations:
+# This is a simple command-line calculator written in Python. It performs five basic operations:
 
 - Addition
 - Subtraction
